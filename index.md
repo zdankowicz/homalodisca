@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# The FSC Identikit
 
-You can use the [editor on GitHub](https://github.com/zdankowicz/homalodisca/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**We now have a [forum](https://forum.fscbiodiversity.uk/c/identikit).
+Join us there to ask for help using Identikit, help with creating
+resources, discuss features, bugs, or anything else related to the
+software.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To get started quickly, follow our [Quickstart Guide](docs/quickstart.md).
 
-### Markdown
+The FSC Identikit is a framework for creating online biological
+identification resources, including multi-access keys. The genesis of
+the project was the Field Studies Council's (FSC) Tomorrow's
+Biodiversity project (funded by Esmée Fairbairn 2013-2017 inclusive).
+Esmée Fairbairn funded a further year's development of the Identikit
+(covering 2018) to facilitate rolling the work forward into the
+HLF-funded FSC BioLinks project which runs from 2018 to 2022 inclusive.
+The Field Studies Council is a UK-based environmental education charity.
+We are committed to moving FSC Identikit forward as an open-source
+collaborative venture.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(Prior to March 2018, The FSC Identikit was referred to as 'The Tom.bio
+ID Visualisation Framework', or variations thereof.)
 
-```markdown
-Syntax highlighted code block
+## Try it out
 
-# Header 1
-## Header 2
-### Header 3
+Try the software out:
+* With the [standard interface](https://fieldstudiescouncil.github.io/tombiovis/identikit/vis.html).
+* With the [mobile interface](https://fieldstudiescouncil.github.io/tombiovis/identikit/vism.html).
 
-- Bulleted
-- List
+## Developers
+The repostitory can be cloned thus: ```git clone https://github.com/FieldStudiesCouncil/tombiovis.git```.
 
-1. Numbered
-2. List
+If the clone fails, try the following: ```git clone https://github.com/FieldStudiesCouncil/tombiovis.git --depth 1 --no-single-branch```.
 
-**Bold** and _Italic_ and `Code` text
+The second git command clones the repostiory with a truncated history. This should be fine for most purposes.
 
-[Link](url) and ![Image](src)
-```
+## Documentation
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+All documentation for this project is found in the 'documentation'
+sub-folder and includes the following:
 
-### Jekyll Themes
+* Quickstart Guide
+* Getting started (more detailed than the Quickstart Guide)
+* Building a knowledge-base (essential guide for knowledge-base
+  developers)
+* Deploying your resources (how to make your ID resources available to
+  other people)
+* Character scoring (only for those who want more detail on Identikit's
+  mechanism for scoring with multi-access keys)
+* Notes for coders (only for programmers who want to extend or
+  contribute to the Identikit)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zdankowicz/homalodisca/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We are also working on moving the documentation online so that it will be available here. Currently the following is available:
 
-### Support or Contact
+* [Quickstart Guide](docs/quickstart.md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Other information
+
+* [Change log](CHANGELOG.md)
+* [Release notes](ReleaseNotes.md)
+* [Support](SUPPORT.md)
