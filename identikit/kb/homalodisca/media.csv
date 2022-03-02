@@ -1,5 +1,5 @@
 URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
-# taxa,,,,,,,,,,,
+# taxa
 https://i.imgur.com/WwUns2y.jpeg,,,150%,image-web,,"© Sue Stutzman, iNaturalist, CC-BY-NC",Homalodisca vitripennis,,,,
 https://i.imgur.com/PbcyxGY.jpeg,,,150%,image-web,,"© Cheryl Harleston López Espino, iNaturalist, CC-BY-NC-ND",Homalodisca ichthyocephala,,,,
 https://i.imgur.com/5SXxqdp.jpeg,,,150%,image-web,,"© James Bailey, iNaturalist, CC-BY-NC",Homalodisca liturata,,,,
