@@ -1,7 +1,7 @@
 URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
 # taxa,,,,,,,,,,,
-resources/vitripennis.jpeg,,,100%,image-local,,"© Sue Stutzman, iNaturalist, CC-BY-NC",Homalodisca vitripennis,,,,
-resources/ichthyocephala.jpeg,,,100%,image-local,,"© Cheryl Harleston López Espino, iNaturalist, CC-BY-NC-ND",Homalodisca ichthyocephala,,,,
-resources/liturata.jpeg,,,100%,image-local,,"© James Bailey, iNaturalist, CC-BY-NC",Homalodisca liturata,,,,
-resources/elongata.jpeg,,,100%,image-local,,"© Chris Mallory, iNaturalist, CC-BY-NC",Homalodisca elongata,,,,
-resources/insolita.jpeg,,,100%,image-local,,"© skitterbug, iNaturalist, CC-BY",Homalodisca insolita,,,,
+https://i.imgur.com/WwUns2y.jpeg,,,100%,image-web,,"© Sue Stutzman, iNaturalist, CC-BY-NC",Homalodisca vitripennis,,,,
+https://i.imgur.com/PbcyxGY.jpeg,,,100%,image-web,,"© Cheryl Harleston López Espino, iNaturalist, CC-BY-NC-ND",Homalodisca ichthyocephala,,,,
+https://i.imgur.com/5SXxqdp.jpeg,,,100%,image-web,,"© James Bailey, iNaturalist, CC-BY-NC",Homalodisca liturata,,,,
+https://i.imgur.com/GIoqVtv.jpeg,,,100%,image-web,,"© Chris Mallory, iNaturalist, CC-BY-NC",Homalodisca elongata,,,,
+https://i.imgur.com/TwtbyQ4.jpeg,,,100%,image-web,,"© skitterbug, iNaturalist, CC-BY",Homalodisca insolita,,,,
