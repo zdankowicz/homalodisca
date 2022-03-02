@@ -1,20 +1,20 @@
 URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
-# taxa
+# taxa,,,,,,,,,,,
 https://i.imgur.com/WwUns2y.jpeg,,,150%,image-web,,"© Sue Stutzman, iNaturalist, CC-BY-NC",Homalodisca vitripennis,,,,
 https://i.imgur.com/PbcyxGY.jpeg,,,150%,image-web,,"© Cheryl Harleston López Espino, iNaturalist, CC-BY-NC-ND",Homalodisca ichthyocephala,,,,
 https://i.imgur.com/5SXxqdp.jpeg,,,150%,image-web,,"© James Bailey, iNaturalist, CC-BY-NC",Homalodisca liturata,,,,
 https://i.imgur.com/GIoqVtv.jpeg,,,150%,image-web,,"© Chris Mallory, iNaturalist, CC-BY-NC",Homalodisca elongata,,,,
 https://i.imgur.com/TwtbyQ4.jpeg,,,150%,image-web,,"© skitterbug, iNaturalist, CC-BY",Homalodisca insolita,,,,
 
-# vitripennis
+# vitripennis,,,,,,,,,,,
 https://i.imgur.com/cg5Mk7a.jpeg,,,100%,image-web,,"© Jesse Rorabaugh, iNaturalist, CC0",,HeadColor,Brown with light speckles,,
 https://i.imgur.com/phA9hDy.jpeg,,,100%,image-web,,"© Jesse Rorabaugh, iNaturalist, CC0",,EyeColor,Yellow with random black markings,,
 https://i.imgur.com/j10bFyq.jpeg,,,100%,image-web,,"© Eric Carpenter, iNaturalist, CC-BY-NC",,AbdomenColor,"White extends almost to the posterior abdomen, black is evident, more speckled lower down",,
 
-# liturata
+# liturata,,,,,,,,,,,
 https://i.imgur.com/7uoEDjy.jpeg,,,100%,image-web,,"© Keir Morse, iNaturalist, CC-BY-NC-ND",,HeadColor,White to yellow to blue lines with black borders,,
 https://i.imgur.com/beipQ2n.jpeg,,,100%,image-web,,"© Keir Morse, iNaturalist, CC-BY-NC-ND",,EyeColor,Entirely light blue to green with random black markings,,
 https://i.imgur.com/VlXMgkw.jpeg,,,100%,image-web,,"© Eric Carpenter, iNaturalist, CC-BY-NC",,AbdomenColor,"White extends to posterior of abdomen, black is more consistently splotchy lower down",,
 
-# group characters
+# group characters,,,,,,,,,,,
 https://i.imgur.com/wJfPvvr.jpeg,,,100%,image-web,,"© Eric Carpenter, iNaturalist, CC-BY-NC",,ForewingColor,"Mostly transparent with red patterning on the apical half",,
