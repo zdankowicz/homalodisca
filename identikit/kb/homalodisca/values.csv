@@ -1,6 +1,7 @@
 ﻿Character,CharacterState,CharacterStateTranslation,StateGroup,StateHelp,StateHelpShort
-ForewingColor,Brown,,,,
-ForewingColor,Patterned,,,,
+ForewingColor,Entirely brown,,,,
+ForewingColor,Green to white with black lines on veins,,,,
+ForewingColor,Mostly transparent with red patterning on the apical half,,,,
 HeadPronotumColor,Dark brown with light brown patterning,,,,
 HeadPronotumColor,White to blue lines with black borders,,,,
 HeadPronotumColor,"Brown with few yellow speckles",,,,
