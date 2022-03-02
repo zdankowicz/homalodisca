@@ -1,7 +1,7 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
-Color,ForewingColor,Coloration on forewings,Do the forewings have patterns or are they brown?,,key,text,single,,10,
-Color,ColorSymmetrical,Symmetricality of patterning on head and pronotum,Is the patterning on the head and pronotum symmetrical/speckled?,,key,text,single,,6,
-Color,HeadPronotumColor,Coloration on head and pronotum,What color is the head and pronotum?,,key,text,single,,10,
-Color,EyeColor,General coloration of eyes,What color are the eyes?,,key,text,single,,9,
-None,PronotalHump,Size of pronotal 'hump',How humped is the area behind the pronotum relative to the rest of the body?,,key,text,multi,,7,
-None,Range,Range,Where was the organism found?,,key,text,multi,,6,
+,ForewingColor,Coloration on forewings,Do the forewings have patterns or are they brown?,,key,text,single,,10,
+,ColorSymmetrical,Symmetricality of patterning on head and pronotum,Is the patterning on the head and pronotum symmetrical/speckled?,,key,text,single,,6,
+,HeadPronotumColor,Coloration on head and pronotum,What color is the head and pronotum?,,key,text,single,,10,
+,EyeColor,General coloration of eyes,What color are the eyes?,,key,text,single,,9,
+,PronotalHump,Size of pronotal 'hump',How humped is the area behind the pronotum relative to the rest of the body?,,key,text,multi,,7,
+,Range,Range,Where was the organism found?,,key,text,multi,,6,
