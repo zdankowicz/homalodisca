@@ -1,5 +1,5 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
-,HeadPronotumColor,Coloration on head and pronotum,What color is the head and pronotum?,,key,text,single,,10,
+,HeadColor,Coloration on head and pronotum,What color is the head?,,key,text,single,,10,
 ,AbdomenColor,Coloration of abdomen,What is the coloration on the sides of the abdomen?,,key,text,single,,9,
 ,EyeColor,General coloration of eyes,What color are the eyes?,,key,text,single,,8,
 ,ForewingColor,Coloration on forewings,Do the forewings have patterns or are they brown?,,key,text,single,,7,
