@@ -6,9 +6,9 @@ authors,metadata,yes,"Dankowicz, Z.",,
 publisher,metadata,no,Field/Photo ID for Flies,,
 location,metadata,no,,,
 contact,metadata,no,<a href='mailto:physignat@gmail.com'>Email</a>,,
-version,metadata,yes,1.3.0,,
+version,metadata,yes,1.4.0,,
 #Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
-release,history,no,1.3.0,3/3/2022,"Minor changes to wording, adding a few missing images."
+release,history,no,1.4.0,3/3/2022,"Minor changes to wording, adding a few missing images."
 release,history,no,1.3.0,3/2/2022,"Added images displaying each character as well as each species. Minor changes to wording."
 release,history,no,1.2.0,3/1/2022,"Major changes to wording, released for feedback."
 release,history,no,1.1.0,3/1/2022,Published on a private site for testing.
