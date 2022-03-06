@@ -5,7 +5,7 @@ year,metadata,yes,2022,,
 authors,metadata,yes,"Dankowicz, Z.",,
 publisher,metadata,no,Field/Photo ID for Flies,,
 location,metadata,no,,,
-contact,metadata,no,<a href='mailto:physignat@gmail.com'>Email</a>,,
+contact,metadata,no,,,
 version,metadata,yes,1.0,,
 #Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
 release,history,no,1.0,3/5/2022,Creation of the knowledge-base.
