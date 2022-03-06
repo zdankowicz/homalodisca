@@ -48,7 +48,7 @@
                         .css("width", this.taxwidth)
                         .css("left", this.margin)
                         .css("font-size", "small")
-                        .text("Evidence balance positive")
+                        .text("Possible choices")
                 )
                 .append(
                      $("<span>")
@@ -57,7 +57,7 @@
                         .css("width", this.taxwidth)
                         .css("left", this.taxwidth + 2 * this.margin)
                         .css("font-size", "small")
-                        .text("Evidence balance negative")
+                        .text("Impossible choices")
                 )
         );
         d3.select("#" + this.visName).append("svg").attr("id", "vis1Svg");    
