@@ -1,6 +1,6 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
 ,Sex,Sex,Is the individual male or female?,,key,text,single,,10,
-,FrontalStripe,Frontal Stripe,What shape is the black stripe on the center of the frons?,,key,text,single,,10,
-,Parafrontal,Parafrontals,What shape and color are the areas in between the frontal stripe and the eyes?,,key,text,single,,10,
+,FrontalStripe,Male Frontal Stripe,What shape is the black stripe on the center of the frons?,,key,text,single,,10,
+,Parafrontal,Female Parafrontals,What shape and color are the areas in between the frontal stripe and the eyes?,,key,text,single,,10,
 ,Scutum,Scutal Stripe Pubescence,How extensive is the gray-ness on the scutum?,,key,text,single,,10,
 ,Abdomen,Female Abdomen,Is there orange on the abdomen?,,key,text,single,,10,
