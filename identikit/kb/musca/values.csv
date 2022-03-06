@@ -1,7 +1,7 @@
 ﻿Character,CharacterState,CharacterStateTranslation,StateGroup,StateHelp,StateHelpShort
 Sex,male,,,,
 Sex,female,,,,
-FrontalStripe,very wide,"oval-ish",,,,
+FrontalStripe,very wide,"oval-ish",,,
 FrontalStripe,narrow but parallel-sided,,,,
 FrontalStripe,wide and parallel-sided,,,,
 FrontalStripe,"very narrow, almost constricted",,,,
