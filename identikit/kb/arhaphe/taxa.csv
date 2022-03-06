@@ -1,5 +1,5 @@
-Taxon,BasalCorium,ApicalCorium,Pilosity
-Arhaphe arguta,Inner margin narrowly black,Largely white,Pilose
-Arhaphe breviata,"Inner margin white, with a row of black punctures",Largely white,Pilose
-Arhaphe carolina,Inner margin narrowly black,Narrowly red,Pilose
-Arhaphe mimetica,Inner margin narrowly black,Narrowly white,Glabrous
+Taxon,BasalCorium,ApicalCorium,Pilosity,Ventrites
+Arhaphe arguta,Inner margin narrowly black,Largely white,Pilose,v4-v6 with small triangular bare spots anterolaterally
+Arhaphe breviata,"Inner margin white, with a row of black punctures",Largely white,Pilose,v4-v6 with large oval bare spots anterolaterally
+Arhaphe carolina,Inner margin narrowly black,Narrowly red,Pilose,Ventrites with someewhat arbitrary bare areas
+Arhaphe mimetica,Inner margin narrowly black,Narrowly white,Glabrous,Ventrites entirely bare
