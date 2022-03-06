@@ -1,6 +1,6 @@
 ﻿Key,Type,Mandatory,Value,Date,Notes
 #Main metadata about the key (e.g. for citing the key),,,,,
-title,metadata,yes,Key to Arhaphe of the USA,,
+title,metadata,yes,Key to <i>Arhaphe</i> of the USA,,
 year,metadata,yes,2022,,
 authors,metadata,yes,"Dankowicz, Z.",,
 publisher,metadata,no,Field/Photo ID for Flies,,
