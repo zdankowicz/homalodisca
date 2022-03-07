@@ -1,3 +1,25 @@
 URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
 # taxa,,,,,,,,,,,
+https://i.imgur.com/zkF7cUJ.png,,,100%,image-web,,"© Damon Tighe, iNaturalist, CC-BY-NC",Arhaphe arguta,,,,
+https://i.imgur.com/HJJqrrO.png,,,100%,image-web,,"© George Pollock, BugGuide, Used with permission",Arhaphe breviata,,,,
+https://i.imgur.com/7vhq2qL.png,,,100%,image-web,,"© Eric Adams, iNaturalist, CC-BY-NC",Arhaphe carolina,,,,
+https://i.imgur.com/1PvdeZW.png,,,100%,image-web,,"© v belov, BugGuide, Used with permission",Arhaphe mimetica,,,,
 
+# basal corium,,,,,,,,,,,
+https://i.imgur.com/lQPeuQB.png,,,100%,image-web,,"© Salvador Vitanza, BugGuide, Used with permission",,BasalCorium,inner margin narrowly black,,
+https://i.imgur.com/m1Go95P.png,,,100%,image-web,,"© George Pollock, BugGuide, Used with permission",,BasalCorium,"inner margin white, with a row of black punctures",,
+
+# apical corium,,,,,,,,,,,
+https://i.imgur.com/nbUF5mR.png,,,100%,image-web,,"© Salvador Vitanza, BugGuide, Used with permission",,ApicalCorium,largely white,,
+https://i.imgur.com/WjKJVa5.png,,,100%,image-web,,"© Sam Kieschnick, iNaturalist, CC-BY",,ApicalCorium,narrowly red,,
+https://i.imgur.com/o7UPgqk.png,,,100%,image-web,,"© v belov, BugGuide, Used with permission",,ApicalCorium,narrowly white,,
+
+# pilosity,,,,,,,,,,,
+https://i.imgur.com/EKGqqcg.png,,,100%,image-web,,"© Salvador Vitanza, BugGuide, Used with permission",,Pilosity,with long hairs,,
+https://i.imgur.com/Mf2H8tN.png,,,100%,image-web,,"© v belov, BugGuide, Used with permission",,Pilosity,with only minute hairs,,
+
+# ventrites,,,,,,,,,,,
+https://i.imgur.com/P8ndAYO.png,,,100%,image-web,,"© Salvador Vitanza, BugGuide, Used with permission",,Ventrites,v4-v6 with small triangular bare spots anterolaterally,,
+https://i.imgur.com/koZWC1H.png,,,100%,image-web,,"© George Pollock, BugGuide, Used with permission",,Ventrites,v4-v6 with small oval bare spots anterolaterally,,
+https://i.imgur.com/u2AEA0w.png,,,100%,image-web,,"© Sam Kieschnick, iNaturalist, CC-BY",,Ventrites,v4-v6 with large oval bare spots anterolaterally,,
+https://i.imgur.com/Ga5IF7G.png,,,100%,image-web,,"© v belov, BugGuide, Used with permission",,Ventrites,ventrites without specified bare areas,,
