@@ -1,3 +1,3 @@
 Taxon,Sex,FrontalStripe,Parafrontal,Scutum,Abdomen
-Musca domestica,male | female,"wider, parallel-sided (m) | no (f)","somewhat narrow, constricted medially, somewhat yellowish (f) | no (m)",extensive,"almost always with orange (f) | no (m)"
-Musca autumnalis,male | female,"very narrow, almost constricted (m) | no (f)","very wide, entirely whitish (f) | no (m)","restricted to anterior (m) | extensive (f)","entirely gray-black (f) | no (m)"
+Musca domestica,male | female,"wider, parallel-sided (m)","somewhat narrow, constricted medially, somewhat yellowish (f)",extensive,"almost always with orange (f)"
+Musca autumnalis,male | female,"very narrow, almost constricted (m)","very wide, entirely whitish (f)","restricted to anterior (m) | extensive (f)","entirely gray-black (f)"
