@@ -1,5 +1,5 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
+,Ventrites,Unique: Ventral Abdomen,How much of the ventral abdomen is covered with silvery pubescence?,,key,text,single,,10,
 ,ApicalCorium,Apical Corium,What is the coloration on the apical area of the corium?,,key,text,single,,10,
 ,BasalCorium,Basal Corium,"Is the inner margin of the corium black, or white with black punctures?",,key,text,single,,10,
-,Ventrites,Unique: Ventral Abdomen,How much of the ventral abdomen is covered with silvery pubescence?,,key,text,single,,10,
 ,Pilosity,Hairiness,What size hairs are present on the body?,,key,text,single,,10,
