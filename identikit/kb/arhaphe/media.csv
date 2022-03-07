@@ -1,9 +1,9 @@
 URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
 # taxa,,,,,,,,,,,
-https://i.imgur.com/zkF7cUJ.png,,,100%,image-web,,"© Damon Tighe, iNaturalist, CC-BY-NC",Arhaphe arguta,,,,
-https://i.imgur.com/HJJqrrO.png,,,100%,image-web,,"© George Pollock, BugGuide, Used with permission",Arhaphe breviata,,,,
-https://i.imgur.com/7vhq2qL.png,,,100%,image-web,,"© Eric Adams, iNaturalist, CC-BY-NC",Arhaphe carolina,,,,
-https://i.imgur.com/1PvdeZW.png,,,100%,image-web,,"© v belov, BugGuide, Used with permission",Arhaphe mimetica,,,,
+https://i.imgur.com/zkF7cUJ.png,,,75%,image-web,,"© Damon Tighe, iNaturalist, CC-BY-NC",Arhaphe arguta,,,,
+https://i.imgur.com/HJJqrrO.png,,,75%,image-web,,"© George Pollock, BugGuide, Used with permission",Arhaphe breviata,,,,
+https://i.imgur.com/7vhq2qL.png,,,75%,image-web,,"© Eric Adams, iNaturalist, CC-BY-NC",Arhaphe carolina,,,,
+https://i.imgur.com/1PvdeZW.png,,,75%,image-web,,"© v belov, BugGuide, Used with permission",Arhaphe mimetica,,,,
 
 # basal corium,,,,,,,,,,,
 https://i.imgur.com/lQPeuQB.png,,,100%,image-web,,"© Salvador Vitanza, BugGuide, Used with permission",,BasalCorium,inner margin narrowly black,,
