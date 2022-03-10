@@ -1,0 +1,2 @@
+Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
+,ApicalCorium,Apical Corium,What is the coloration on the apical area of the corium?,,key,text,single,,10,
