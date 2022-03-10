@@ -1,5 +1,4 @@
 Group,Character,Label,Help,HelpShort,Status,ValueType,ControlType,Params,Weight,Latitude
-,ApicalCorium,Apical Corium,What is the coloration on the apical area of the corium?,,key,text,single,,10,
 Wing,DiscalCell,Discal cell,Is the discal cell infuscated or hyaline?,,key,text,single,,10,
 Wing,CostalCell,Costal cell,Is the costal cell slightly infuscated or hyaline?,,key,text,single,,10,
 Thorax,HumeralMarkings,Humeral markings,What color and shape are the markings on the 'shoulders'?,,key,text,single,,10,
