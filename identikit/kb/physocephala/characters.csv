@@ -9,6 +9,6 @@ Head,Occiput,Occiput,What color is the area behind the eyes?,,key,text,single,,1
 Thorax,HumeralMarkings,Humeral markings,What color and shape are the markings on the 'shoulders'?,,key,text,single,,10,
 Thorax,Scutellum,Scutellum,What color is the scutellum?,,key,text,single,,10,
 Thorax,Scutum,Scutum,What color is the scutum?,,key,text,single,,10,
-Abdomen,TergalBands,Apex of tergites,"Are there light bands on the apex of each tergite, and if so, what color are they?",,key,text,single,,10,
+Abdomen,TergalBands,Bands on apex of tergites,"Are there light bands on the apex of each tergite, and if so, what color are they?",,key,text,single,,10,
 Abdomen,AbdomenColor,Color of abdomen,What color is the rest of the abdomen?,,key,text,single,,10,
 Legs,Femora,Femora,What color are the femora?,,key,text,single,,10,
