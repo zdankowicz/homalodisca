@@ -145,7 +145,7 @@
         //Format warning div
         $("<div style='width: " + window.screen.width + "px'>").attr("id", "tombioGuiLargeJqueryUiDeviceWarning").appendTo("#tombioGuiLargeJqueryUi");
         $("<div>").attr("id", "tombioGuiLargeJqueryUiDeviceWarningInnerDiv").css("margin", "2em").appendTo($("#tombioGuiLargeJqueryUiDeviceWarning"));
-        $("<p>").text("This Identikit tool is designed for large format devices. If you are working with a small screen or with a touch device, it might not appear or work as intended. We are working to produce a range of 'mobile-first' tools in the latter part of 2018.")
+        $("<p>").text("This Identikit tool is designed for large format devices. If you are working with a small screen or with a touch device, it might not appear as intended. You may close out of this pop-up if this isn't an issue.")
             .appendTo($("#tombioGuiLargeJqueryUiDeviceWarningInnerDiv"));
         $("<img>").attr("id", "tombioGuiLargeJqueryUiDeviceWarningButton")
             .attr("src", tbv.opts.tombiopath + "/resources/remove.png")
