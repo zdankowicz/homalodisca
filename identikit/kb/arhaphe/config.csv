@@ -6,7 +6,7 @@ authors,metadata,yes,"Dankowicz, Z.",,
 publisher,metadata,no,Field/Photo ID for Flies,,
 location,metadata,no,,,
 contact,metadata,no,,,
-version,metadata,yes,1.0,,
+version,metadata,yes,1.1.0,,
 #Releases - keep track of the release history below this line. Most recent releases at the top. The version code in the 'value' column below this line should match that of the current release above it.,,,,,
 release,history,no,1.0,5/3/2022,Creation of the knowledge-base.
 release,history,no,1.1.0,27/4/2022,Minor fix.
